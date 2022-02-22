@@ -30,8 +30,7 @@ Dalam materi ini kita mempelajari:
 ### 3. Merge branch fitur hanya ke branch development
     $ (fitur1) git checkout development
     $ (development) git merge fitur1
-### 4. Merge branch development ke branch ma
-ster jika projek selesai
+### 4. Merge branch development ke branch master jika projek selesai
     $ (master)git merge development
 
 E. Hasil Tugas Versioning
