@@ -25,18 +25,18 @@ Dalam materi ini kita mempelajari:
 - Contoh skill teknikal: pengetahuan dasar Unix/Linux commands, peralatan manajemen tes, peralatan manajemen tracking, peralatan tes automasi 
 
 ## D. Sofware Tester Career Path
-### Dibagi menjadi 5 yaitu:
-### 1. Junior Quality Engineer (baru)
-### 2. Quality Engineer (1-2 tahun pengalaman)
-### 3. Senior Quality Engineer (lebih dari 3 tahun pengalaman)
-### 4. Quality Engineer Lead (5-6 tahun pengalaman)
-### 5. Quality Engineer Manager (8-11 tahun pengalaman)
+Dibagi menjadi 5 yaitu:
+1. Junior Quality Engineer (baru)
+2. Quality Engineer (1-2 tahun pengalaman)
+3. Senior Quality Engineer (lebih dari 3 tahun pengalaman)
+4. Quality Engineer Lead (5-6 tahun pengalaman)
+5. Quality Engineer Manager (8-11 tahun pengalaman)
 
 ## E. Alternate Career Track as a Software Tester
-### 1. Perfomance tester
-### 2. Penetration Tester
-### 3. System Analyst
-### 4. Scrum Master
+1. Perfomance tester
+2. Penetration Tester
+3. System Analyst
+4. Scrum Master
 
 ## How Become Software Tester
 ### 1. Software Testing
