@@ -25,7 +25,7 @@ Dalam materi ini kita mempelajari:
 - Contoh skill teknikal: pengetahuan dasar Unix/Linux commands, peralatan manajemen tes, peralatan manajemen tracking, peralatan tes automasi 
 
 ## D. Sofware Tester Career Path
-- dibagi menjadi 5 yaitu:
+### Dibagi menjadi 5 yaitu:
 ### 1. Junior Quality Engineer (baru)
 ### 2. Quality Engineer (1-2 tahun pengalaman)
 ### 3. Senior Quality Engineer (lebih dari 3 tahun pengalaman)
