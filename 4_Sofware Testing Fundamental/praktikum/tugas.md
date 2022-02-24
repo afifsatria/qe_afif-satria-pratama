@@ -6,7 +6,7 @@ Mutation Testing : n testing yang dilakukan terhadap suatu program dengan memodi
 - Jika mutation score = 100%, maka test case sudah cukup
 - Jika mutation score < 100%, maka test case belum cukup, test case perlu ditambah lagi hingga mutant yang not killable menjadi killable dan mutation score menjadi 100%.
 
-![screenshots1](./screenshots/1.png)
+![1](./screenshots/1.png)
 
 Kemudian disoal nomer 1 seperti gambar diatas penjelasannya adalah:
 a. Untuk code di name com.hascode.tutorial.entity untuk line coverage jumlah yang sudah dieksekusi (testing) yaitu 6 baris dari 9 baris line yang dibuat yang berarti masih ada 3 line yang belum di test dengan jumlah persen 67%. Untuk mutation covarge memiliki score 67% dengan jumlah 2 yang sudah kill able atau termutasi dan yang 1 masih non kill able yang berarti kitaperlu menambah test case kembali agar mutant yang non kill able menjadi kill able dengan menambah mutant atau mengeditpada line yang masih non kill able yang dapat menjadikan mutant tersebuh kill able sehingga score bisa 100% yang menunjukkan semua telah termutasi dengan sempurna
