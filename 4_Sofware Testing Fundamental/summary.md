@@ -3,10 +3,14 @@
 ## Resume
 Dalam materi ini kita mempelajari:
 - Apa itu Software Testing
-- Apa yang dilakukan Sofware tester 
-- Skill-skill yang dibutuhkan untuk menjadi Software Tester 
-- Sofware Tester Career Path
-- Bagaimana cara menjadi Sofware Tester
+- Pentingnya Software Testing
+- Tipe Software Testing 
+- Functional Testing
+- Non-Functional Testing
+- Performance Testing 
+- Maintenance Testing 
+- Levels of Testing
+
 ## A. Software Testing
 Sebuah proses menganalisis item perangkat lunak untuk mendeteksi perbedaan antara kondisi yang ada dan yang dibutuhkan (yaitu cacat) dan untuk mengevaluasi fitur dari item perangkat lunak.  
 
