@@ -24,6 +24,3 @@ Dengan adanya roadmaps, dapat membuat anggota tim mengetahui gambaran ke depan a
 
 4. Konektivitas dengan aplikasi lain
 Dukungan untuk berbagai aplikasi ini dapat mempermudah proses pengerjaan suatu project. Pasalnya, tak dapat dipungkiri, dalam suatu project membutuhkan satu atau lebih aplikasi agar hasilnya maksimal. Dengan fitur ini, maka tugas yang diberikan di Jira akan lebih intuitif dan mudah.
-
-Penugasan Section 6:
-[Tugas Section 6.pdf](./praktikum/Tugas Section 6.pdf)
