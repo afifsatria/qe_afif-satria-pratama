@@ -30,4 +30,4 @@ Cara menggunakan TestRail yaitu:
 7. Membuat Tes Case
 8. Test Report
 
-![ss](./screenshots/ss.jpg)
+![ss](./screenshots/ss.png)
