@@ -14,11 +14,11 @@ Feature: Login
     Then I get the "<result>"
     Examples:
       |username|password|result|
-      |Hakim001|Valid@01|profile page|
-      |Hakim001|Valid@02|login page|
-      |Hakim002|Valid@01|login page|
-      |Hakim002|Valid@02|login page|
-      |Hakim001|        |field empty|
+      |Hadi001|Valid@01|profile page|
+      |Hadi001|Valid@02|login page|
+      |Hadi002|Valid@01|login page|
+      |Hadi002|Valid@02|login page|
+      |Hadi001|        |field empty|
       |        |Valid@01|field empty|
       |        |        |field empty|
 
